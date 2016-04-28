@@ -1,0 +1,1 @@
+# using_commonJS_module_with_amd
